@@ -1,0 +1,1 @@
+This is a whether api app which is made using javascript,css and html and the api used is from whether app
